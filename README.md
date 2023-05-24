@@ -13,8 +13,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-[Elixir Protocol:Delegating Guide](https://medium.com/@0xGreatApe/elixir-protocol-delegating-guide-ce16970684ac)
-[Elixir Protocol: Running a Validator Node](https://medium.com/@0xGreatApe/an-idiots-guide-to-running-an-elixir-v2-0-validator-307e801ec4bf)
+- [Elixir Protocol:Delegating Guide](https://medium.com/@0xGreatApe/elixir-protocol-delegating-guide-ce16970684ac)
+- [Elixir Protocol: Running a Validator Node](https://medium.com/@0xGreatApe/an-idiots-guide-to-running-an-elixir-v2-0-validator-307e801ec4bf)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

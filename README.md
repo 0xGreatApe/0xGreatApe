@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Solidity DeFi Projects**
 
-- 💬 Ask me about **C++, Python, Crypto**
+- 💬 Ask me about **C/C++, Python, Crypto**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  <img href="https://github.com/ethereum/solidity"  src="https://www.svgrepo.com/show/374088/solidity.svg" alt="hardhat" width="40" height="40"/>  

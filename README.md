@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm 0xGreatApe</h1>
+<h1 align="center"> I'm 0xGreatApe</h1>
 <h3 align="center">Experienced Robotics Engineer / Manager transitioning to Crypto Builder  
 <br /> Crypto degen since 2017 </h3>
  

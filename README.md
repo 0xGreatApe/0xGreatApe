@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm 0xGreatApe</h1>
-<h3 align="center">Experienced Robotics Engineer / Manager transitioning to Crypto Builder  \n (been a crypto user since 2017) </h3>
+<h3 align="center">Experienced Robotics Engineer / Manager transitioning to Crypto Builder  
+<br /> Crypto degen since 2017 </h3>
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xgreatape&label=Profile%20views&color=0e75b6&style=flat" alt="0xgreatape" /> </p>
 

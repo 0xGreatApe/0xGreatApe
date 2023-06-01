@@ -1,8 +1,10 @@
 <h1 align="center"> I'm 0xGreatApe</h1>
-<h3 align="center">Experienced Robotics Engineer / Manager transitioning to Crypto Builder  
-<br /> Crypto degen since 2017 </h3>
- 
+<h2 align="center">Experienced Robotics Engineer / Manager Transitioning to Crypto Builder  
+<br /> Crypto degen since 2017 </h2>
+<h3 align="center"> Over 6 years Tech Experience | Building a new github for Crypto</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xgreatape&label=Profile%20views&color=0e75b6&style=flat" alt="0xgreatape" /> </p>
+
+
 
 - 🔭 I’m currently working on **Yamato**
 

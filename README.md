@@ -4,15 +4,8 @@
 <h3 align="center"> Over 6 years Tech Experience | Building a new github for Crypto</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xgreatape&label=Profile%20views&color=0e75b6&style=flat" alt="0xgreatape" /> </p>
 
-
-
-- 🔭 I’m currently working on **Yamato**
-
-- 🌱 I’m currently learning **Solidity, NodeJS, React.JS**
-
-- 👯 I’m looking to collaborate on **Solidity DeFi Projects**
-
-- 💬 Ask me about **C/C++, Python, Crypto**
+ 
+ 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  <img href="https://github.com/ethereum/solidity"  src="https://www.svgrepo.com/show/374088/solidity.svg" alt="hardhat" width="40" height="40"/>  
